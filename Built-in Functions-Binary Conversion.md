@@ -15,7 +15,7 @@ print(bin(a))
 ```
 
 ## Output
-<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/ac4dfb5d-7ab5-4801-829b-6e2d9c6f8f54" />
+![WhatsApp Image 2025-10-19 at 16 29 22_8d783963](https://github.com/user-attachments/assets/c43c24dc-aa38-4dcc-83e1-c319bf0ddf98)
 
 
 ## Result
